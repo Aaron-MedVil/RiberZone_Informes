@@ -1,0 +1,8 @@
+D:\Riberzone\Informes\rz_inf_app_0.1\rz_inf_0.1.exe
+D:\Riberzone\Informes\rz_inf_app_0.1\rz_inf_0.1.dll
+D:\Riberzone\Informes\rz_inf_app_0.1\rz_inf_0.1.deps.json
+D:\Riberzone\Informes\rz_inf_app_0.1\rz_inf_0.1.runtimeconfig.json
+D:\Riberzone\Informes\rz_inf_app_0.1\rz_inf_0.1.pdb
+D:\Riberzone\Informes\rz_inf_app_0.1\BouncyCastle.Crypto.dll
+D:\Riberzone\Informes\rz_inf_app_0.1\itextsharp.dll
+D:\Riberzone\Informes\rz_inf_app_0.1\RestSharp.dll
