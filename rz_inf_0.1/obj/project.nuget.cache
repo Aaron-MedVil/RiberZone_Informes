@@ -1,12 +1,14 @@
 {
   "version": 2,
-  "dgSpecHash": "OTH+9zm/KNCf3X+IfrLJP+jAg9xOZoucexoJphH6ToxKq4grQnSb2Ujt6l9WIVGsdxQh79RvcI8Kutq4z0dU+A==",
+  "dgSpecHash": "FzTlXbs/fOz8mHTQ9Za0ZAFiFBCcCG7livfNwt7HLQqzBwG85+ynRD8T+NSGKTsnWUpJB+om6IfFmBKzjepcxw==",
   "success": true,
   "projectFilePath": "B:\\Backup Pc\\Github\\RiberZone\\RiberZone_Informes\\rz_inf_0.1\\rz_inf_0.1.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Aaron\\.nuget\\packages\\bouncycastle\\1.8.6.1\\bouncycastle.1.8.6.1.nupkg.sha512",
     "C:\\Users\\Aaron\\.nuget\\packages\\itextsharp\\5.5.13.2\\itextsharp.5.5.13.2.nupkg.sha512",
-    "C:\\Users\\Aaron\\.nuget\\packages\\restsharp\\106.11.7\\restsharp.106.11.7.nupkg.sha512"
+    "C:\\Users\\Aaron\\.nuget\\packages\\restsharp\\106.11.7\\restsharp.106.11.7.nupkg.sha512",
+    "C:\\Users\\Aaron\\.nuget\\packages\\syncfusion.licensing\\19.1.0.64\\syncfusion.licensing.19.1.0.64.nupkg.sha512",
+    "C:\\Users\\Aaron\\.nuget\\packages\\syncfusion.sfchart.wpf\\19.1.0.64\\syncfusion.sfchart.wpf.19.1.0.64.nupkg.sha512"
   ],
   "logs": [
     {

@@ -3,7 +3,6 @@
         xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
         xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
-        xmlns:local="clr-namespace:rz_inf_0._1"
         mc:Ignorable="d"
         Title="Riberzone Informes" Height="450" Width="800"
         ResizeMode="CanMinimize" WindowStartupLocation="CenterScreen">
@@ -27,20 +26,25 @@
             <Label HorizontalAlignment="Left">Generar PDF</Label>
             <Separator></Separator>
 
-            <!-- Boton pdf productos -->
-            <Button x:Name="pdfProductos" Click="pdfProductos_Click">
-                <Button.Content>PDF Productos</Button.Content>
-            </Button>
+            <Grid>
 
-            <!-- Boton pdf pedidos -->
-            <Button x:Name="pdfPedidos" Click="pdfPedidos_Click">
-                <Button.Content>PDF Pedidos</Button.Content>
-            </Button>
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition/>
+                    <ColumnDefinition/>
+                </Grid.ColumnDefinitions>
 
-            <!-- Boton pdf facturas -->
-            <Button x:Name="pdfFacturas" Click="pdfFacturas_Click" Visibility="Hidden">
-                <Button.Content>PDF Facturas</Button.Content>
-            </Button>
+                <!-- Boton pdf productos -->
+                <Button x:Name="pdfProductos" Click="pdfProductos_Click">
+                    <Grid.Column>0</Grid.Column>
+                    <Button.Content>PDF Productos</Button.Content>
+                </Button>
+
+                <!-- Boton pdf pedidos -->
+                <Button x:Name="pdfPedidos" Click="pdfPedidos_Click">
+                    <Grid.Column>1</Grid.Column>
+                    <Button.Content>PDF Pedidos</Button.Content>
+                </Button>
+            </Grid>
         </StackPanel>
 
         <!-- Botones Correos -->
@@ -50,20 +54,53 @@
             <Label HorizontalAlignment="Left">Generar emails</Label>
             <Separator></Separator>
 
-            <!-- Boton correo productos -->
-            <Button x:Name="emailProductos" Click="emailProductos_Click">
-                <Button.Content>Email Productos</Button.Content>
-            </Button>
+            <Grid>
 
-            <!-- Boton correo pedidos -->
-            <Button x:Name="emailPedidos" Click="emailPedidos_Click">
-                <Button.Content>Email Pedidos</Button.Content>
-            </Button>
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition/>
+                    <ColumnDefinition/>
+                </Grid.ColumnDefinitions>
 
-            <!-- Boton correo facturas -->
-            <Button x:Name="emailFacturas" Click="emailFacturas_Click" Visibility="Hidden">
-                <Button.Content>Email Facturas</Button.Content>
-            </Button>
+                <!-- Boton correo productos -->
+                <Button x:Name="emailProductos" Click="emailProductos_Click">
+                    <Grid.Column>0</Grid.Column>
+                    <Button.Content>Email Productos</Button.Content>
+                </Button>
+
+                <!-- Boton correo pedidos -->
+                <Button x:Name="emailPedidos" Click="emailPedidos_Click">
+                    <Grid.Column>1</Grid.Column>
+                    <Button.Content>Email Pedidos</Button.Content>
+                </Button>
+            </Grid>
+        </StackPanel>
+
+        <!-- Botones Graficos -->
+        <StackPanel x:Name="btnGraficos">
+
+            <!-- Titulo -->
+            <Label HorizontalAlignment="Left">Gráficos</Label>
+            <Separator></Separator>
+
+            <Grid>
+
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition/>
+                    <ColumnDefinition/>
+                </Grid.ColumnDefinitions>
+
+                <!-- Boton productos por categorías -->
+                <Button x:Name="graficosProdCategorias" Click="graficosProdCategorias_Click">
+                    <Grid.Column>0</Grid.Column>
+                    <Button.Content>Productos por categorías</Button.Content>
+                </Button>
+
+                <!-- Boton correo productos -->
+                <Button x:Name="graficosProductosVentas" Click="graficosProductosVentas_Click">
+                    <Grid.Column>1</Grid.Column>
+                    <Button.Content>Productos por ventas</Button.Content>
+                </Button>
+            </Grid>
         </StackPanel>
     </StackPanel>
 </Window>

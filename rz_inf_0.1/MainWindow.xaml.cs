@@ -53,18 +53,14 @@ namespace rz_inf_0._1 {
         /// <param name="sender">Elemento que ejecuta el metodo/param>
         /// <param name="e">Parametros del evento</param>
         private void emailPedidos_Click(object sender, RoutedEventArgs e) => emailGen.generarEmailPedidos(rs.getOrders());
-
-
-
-        /// <summary>Genera un fichero PDF con las facturas</summary>
-        /// <param name="sender">Elemento que ejecuta el metodo/param>
-        /// <param name="e">Parametros del evento</param>ram>
-        private void pdfFacturas_Click(object sender, RoutedEventArgs e) { /* pdfGen.generarPDFFacturas(rs.getInvoices()); */ }
-
-        /// <summary>Envia un email con las facturas</summary>
-        /// <param name="sender">Elemento que ejecuta el metodo/param>
-        /// <param name="e">Parametros del evento</param>
-        private void emailFacturas_Click(object sender, RoutedEventArgs e) { /* emailGen.generarEmailFacturas(rs.getInvoices()); */ }
         #endregion
+
+        private void graficosProdCategorias_Click(object sender, RoutedEventArgs e) {
+
+        }
+
+        private void graficosProductosVentas_Click(object sender, RoutedEventArgs e) {
+
+        }
     }
 }
