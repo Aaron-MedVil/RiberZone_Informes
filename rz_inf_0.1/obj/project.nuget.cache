@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "5tP6EPe+HV80r5E+ZN3hN/SDHrcLnT8pAYbHvFOAWq+RsZGhOrCEZHwHyHNbm+Vcz1IDWenjZ58OOx8MigcYdA==",
+  "dgSpecHash": "OTH+9zm/KNCf3X+IfrLJP+jAg9xOZoucexoJphH6ToxKq4grQnSb2Ujt6l9WIVGsdxQh79RvcI8Kutq4z0dU+A==",
   "success": true,
-  "projectFilePath": "D:\\Riberzone\\Informes\\rz_inf_0.1\\rz_inf_0.1\\rz_inf_0.1.csproj",
+  "projectFilePath": "B:\\Backup Pc\\Github\\RiberZone\\RiberZone_Informes\\rz_inf_0.1\\rz_inf_0.1.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Aaron\\.nuget\\packages\\bouncycastle\\1.8.6.1\\bouncycastle.1.8.6.1.nupkg.sha512",
     "C:\\Users\\Aaron\\.nuget\\packages\\itextsharp\\5.5.13.2\\itextsharp.5.5.13.2.nupkg.sha512",

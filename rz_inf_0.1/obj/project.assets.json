@@ -93,11 +93,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Riberzone\\Informes\\rz_inf_0.1\\rz_inf_0.1\\rz_inf_0.1.csproj",
+      "projectUniqueName": "B:\\Backup Pc\\Github\\RiberZone\\RiberZone_Informes\\rz_inf_0.1\\rz_inf_0.1.csproj",
       "projectName": "rz_inf_0.1",
-      "projectPath": "D:\\Riberzone\\Informes\\rz_inf_0.1\\rz_inf_0.1\\rz_inf_0.1.csproj",
+      "projectPath": "B:\\Backup Pc\\Github\\RiberZone\\RiberZone_Informes\\rz_inf_0.1\\rz_inf_0.1.csproj",
       "packagesPath": "C:\\Users\\Aaron\\.nuget\\packages\\",
-      "outputPath": "D:\\Riberzone\\Informes\\rz_inf_0.1\\rz_inf_0.1\\obj\\",
+      "outputPath": "B:\\Backup Pc\\Github\\RiberZone\\RiberZone_Informes\\rz_inf_0.1\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Aaron\\AppData\\Roaming\\NuGet\\NuGet.Config",
