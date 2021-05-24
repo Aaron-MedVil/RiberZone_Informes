@@ -38,7 +38,6 @@ B:\Backup Pc\Github\RiberZone\RiberZone_Informes\rz_inf_0.1\obj\Release\net5.0-w
 B:\Backup Pc\Github\RiberZone\RiberZone_Informes\rz_inf_0.1\obj\Release\net5.0-windows\MainWindow.g.cs
 B:\Backup Pc\Github\RiberZone\RiberZone_Informes\rz_inf_0.1\obj\Release\net5.0-windows\App.g.cs
 B:\Backup Pc\Github\RiberZone\RiberZone_Informes\rz_inf_0.1\obj\Release\net5.0-windows\rz_inf_0.1_MarkupCompile.cache
-B:\Backup Pc\Github\RiberZone\RiberZone_Informes\rz_inf_0.1\obj\Release\net5.0-windows\rz_inf_0.1_MarkupCompile.lref
 B:\Backup Pc\Github\RiberZone\RiberZone_Informes\rz_inf_0.1\obj\Release\net5.0-windows\MainWindow.baml
 B:\Backup Pc\Github\RiberZone\RiberZone_Informes\rz_inf_0.1\obj\Release\net5.0-windows\rz_inf_0.1.g.resources
 B:\Backup Pc\Github\RiberZone\RiberZone_Informes\rz_inf_0.1\obj\Release\net5.0-windows\rz_inf_0.1.GeneratedMSBuildEditorConfig.editorconfig
@@ -50,3 +49,7 @@ B:\Backup Pc\Github\RiberZone\RiberZone_Informes\rz_inf_0.1\obj\Release\net5.0-w
 B:\Backup Pc\Github\RiberZone\RiberZone_Informes\rz_inf_0.1\obj\Release\net5.0-windows\ref\rz_inf_0.1.dll
 B:\Backup Pc\Github\RiberZone\RiberZone_Informes\rz_inf_0.1\obj\Release\net5.0-windows\rz_inf_0.1.pdb
 B:\Backup Pc\Github\RiberZone\RiberZone_Informes\rz_inf_0.1\obj\Release\net5.0-windows\rz_inf_0.1.genruntimeconfig.cache
+B:\Backup Pc\Github\RiberZone\RiberZone_Informes\rz_inf_0.1\obj\Release\net5.0-windows\Graficos.baml
+B:\Backup Pc\Github\RiberZone\RiberZone_Informes\rz_inf_0.1\obj\Release\net5.0-windows\Graficos.g.cs
+B:\Backup Pc\Github\RiberZone\RiberZone_Informes\rz_inf_0.1\bin\Release\net5.0-windows\Syncfusion.Licensing.dll
+B:\Backup Pc\Github\RiberZone\RiberZone_Informes\rz_inf_0.1\bin\Release\net5.0-windows\Syncfusion.SfChart.WPF.dll

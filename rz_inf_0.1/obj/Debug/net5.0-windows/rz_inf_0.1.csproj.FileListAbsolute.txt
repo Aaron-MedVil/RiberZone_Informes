@@ -24,3 +24,32 @@ D:\Riberzone\Informes\rz_inf_0.1\rz_inf_0.1\bin\Debug\net5.0-windows\RestSharp.d
 D:\Riberzone\Informes\rz_inf_0.1\rz_inf_0.1\obj\Debug\net5.0-windows\rz_inf_0.1.csproj.CopyComplete
 D:\Riberzone\Informes\rz_inf_0.1\rz_inf_0.1\bin\Debug\net5.0-windows\BouncyCastle.Crypto.dll
 D:\Riberzone\Informes\rz_inf_0.1\rz_inf_0.1\bin\Debug\net5.0-windows\itextsharp.dll
+B:\Backup Pc\Github\RiberZone\RiberZone_Informes\rz_inf_0.1\bin\Debug\net5.0-windows\rz_inf_0.1.exe
+B:\Backup Pc\Github\RiberZone\RiberZone_Informes\rz_inf_0.1\bin\Debug\net5.0-windows\rz_inf_0.1.deps.json
+B:\Backup Pc\Github\RiberZone\RiberZone_Informes\rz_inf_0.1\bin\Debug\net5.0-windows\rz_inf_0.1.runtimeconfig.json
+B:\Backup Pc\Github\RiberZone\RiberZone_Informes\rz_inf_0.1\bin\Debug\net5.0-windows\rz_inf_0.1.runtimeconfig.dev.json
+B:\Backup Pc\Github\RiberZone\RiberZone_Informes\rz_inf_0.1\bin\Debug\net5.0-windows\rz_inf_0.1.dll
+B:\Backup Pc\Github\RiberZone\RiberZone_Informes\rz_inf_0.1\bin\Debug\net5.0-windows\ref\rz_inf_0.1.dll
+B:\Backup Pc\Github\RiberZone\RiberZone_Informes\rz_inf_0.1\bin\Debug\net5.0-windows\rz_inf_0.1.pdb
+B:\Backup Pc\Github\RiberZone\RiberZone_Informes\rz_inf_0.1\bin\Debug\net5.0-windows\BouncyCastle.Crypto.dll
+B:\Backup Pc\Github\RiberZone\RiberZone_Informes\rz_inf_0.1\bin\Debug\net5.0-windows\itextsharp.dll
+B:\Backup Pc\Github\RiberZone\RiberZone_Informes\rz_inf_0.1\bin\Debug\net5.0-windows\RestSharp.dll
+B:\Backup Pc\Github\RiberZone\RiberZone_Informes\rz_inf_0.1\bin\Debug\net5.0-windows\Syncfusion.Licensing.dll
+B:\Backup Pc\Github\RiberZone\RiberZone_Informes\rz_inf_0.1\bin\Debug\net5.0-windows\Syncfusion.SfChart.WPF.dll
+B:\Backup Pc\Github\RiberZone\RiberZone_Informes\rz_inf_0.1\obj\Debug\net5.0-windows\rz_inf_0.1.csprojAssemblyReference.cache
+B:\Backup Pc\Github\RiberZone\RiberZone_Informes\rz_inf_0.1\obj\Debug\net5.0-windows\Graficos.baml
+B:\Backup Pc\Github\RiberZone\RiberZone_Informes\rz_inf_0.1\obj\Debug\net5.0-windows\MainWindow.baml
+B:\Backup Pc\Github\RiberZone\RiberZone_Informes\rz_inf_0.1\obj\Debug\net5.0-windows\Graficos.g.cs
+B:\Backup Pc\Github\RiberZone\RiberZone_Informes\rz_inf_0.1\obj\Debug\net5.0-windows\MainWindow.g.cs
+B:\Backup Pc\Github\RiberZone\RiberZone_Informes\rz_inf_0.1\obj\Debug\net5.0-windows\App.g.cs
+B:\Backup Pc\Github\RiberZone\RiberZone_Informes\rz_inf_0.1\obj\Debug\net5.0-windows\rz_inf_0.1_MarkupCompile.cache
+B:\Backup Pc\Github\RiberZone\RiberZone_Informes\rz_inf_0.1\obj\Debug\net5.0-windows\rz_inf_0.1.g.resources
+B:\Backup Pc\Github\RiberZone\RiberZone_Informes\rz_inf_0.1\obj\Debug\net5.0-windows\rz_inf_0.1.GeneratedMSBuildEditorConfig.editorconfig
+B:\Backup Pc\Github\RiberZone\RiberZone_Informes\rz_inf_0.1\obj\Debug\net5.0-windows\rz_inf_0.1.AssemblyInfoInputs.cache
+B:\Backup Pc\Github\RiberZone\RiberZone_Informes\rz_inf_0.1\obj\Debug\net5.0-windows\rz_inf_0.1.AssemblyInfo.cs
+B:\Backup Pc\Github\RiberZone\RiberZone_Informes\rz_inf_0.1\obj\Debug\net5.0-windows\rz_inf_0.1.csproj.CoreCompileInputs.cache
+B:\Backup Pc\Github\RiberZone\RiberZone_Informes\rz_inf_0.1\obj\Debug\net5.0-windows\rz_inf_0.1.csproj.CopyComplete
+B:\Backup Pc\Github\RiberZone\RiberZone_Informes\rz_inf_0.1\obj\Debug\net5.0-windows\rz_inf_0.1.dll
+B:\Backup Pc\Github\RiberZone\RiberZone_Informes\rz_inf_0.1\obj\Debug\net5.0-windows\ref\rz_inf_0.1.dll
+B:\Backup Pc\Github\RiberZone\RiberZone_Informes\rz_inf_0.1\obj\Debug\net5.0-windows\rz_inf_0.1.pdb
+B:\Backup Pc\Github\RiberZone\RiberZone_Informes\rz_inf_0.1\obj\Debug\net5.0-windows\rz_inf_0.1.genruntimeconfig.cache
